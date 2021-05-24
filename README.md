@@ -1,0 +1,2 @@
+# ASySPracticasPedroIsaacGuerequeCorpus
+Rpositorio de practicas
